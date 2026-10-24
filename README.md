@@ -8,6 +8,13 @@ SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash algorithm that p
 
 The objective is to understand how a digital algorithm is translated into synthesizable hardware and implemented through an ASIC design flow.
 
+## Project Overview Video
+
+Watch this short video walkthrough of the SHA-256 Cryptographic Hash Accelerator project, covering the repository structure, architecture overview, Verilog RTL, simulation evidence, synthesis, physical design, verification, and timing analysis.
+
+[**▶ Watch the SHA-256 Accelerator Project Overview**](https://drive.google.com/file/d/1Z9ZSGzI3XoMRDa13Hw8hROHtTih1U9HN/view?usp=drivesdk)
+
+
 ## Architecture Block Diagram
 
 ![SHA-256 Cryptographic Hash Accelerator Architecture](./sha256_accelerator_block_diagram.png)
